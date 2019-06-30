@@ -1,0 +1,21 @@
+---
+engines:
+  csslint:
+    enabled: true
+  duplication:
+    enabled: false
+    config:
+      languages:
+      - javascript
+      - scss
+      - json
+  eslint:
+    enabled: true
+  fixme:
+    enabled: true
+ratings:
+  paths:
+  - "**.scss"
+  - "**.json"
+  - "**.js"
+exclude_paths: []
