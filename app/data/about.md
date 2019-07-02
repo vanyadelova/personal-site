@@ -25,7 +25,7 @@ At Codaisseur I have learned how to build teams and manage people, build relatio
 
 - At 20, I went to European Voluntary Service and fell in love. I went back two more times and promised myself that I'd speak Italian. I've since spoken fluent Italian.
 
-You can ask me in person for other stories that I'm afraid to share with the internet.
+You can ask me in person for other stories that I'm afraid to share with the internet. [FAQ](https://iam-vanya.firebaseapp.com/)
 <br><br>
 #### I like
 - Skiing
@@ -39,7 +39,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 
 #### Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in
+- I am from originally from Strelcha, Bulgaria. I have since lived in
 Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 
 - I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
