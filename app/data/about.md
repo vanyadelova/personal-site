@@ -11,9 +11,7 @@ At Codaisseur I have learned how to build teams and manage people, build relatio
 <br><br>
 #### Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- My parents did not put a computer in my bedroom until 2006 when I was 18. It was a modern HP notebook that ran Windows 7. My favorite thing was editing videos on Windows Movie Maker. It had a fingerprint reader and a turbo button. To this day, I still don't know what pressing the turbo button really did.
 
 - In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
 
