@@ -32,34 +32,26 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - Sailing and the sea
 - Space
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
+- Books
 - Colored pencils
 - NPR podcasts
 - [Photography](https://iam-vanya.firebaseapp.com/)
 
 #### Travel / Geography
 
-- I am from originally from Strelcha, Bulgaria. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- I am originally from Strelcha, Bulgaria. I have since lived in
+Bologna, Amsterdam, Sydney, Prague, and Berlin.
 
 - I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
 
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I plan to visit: the U.K., France, Canada, Australia, Chile, Nepal, and Norway.
-
 - I am an Oregon Trail II enthusiast.
+
 
 #### Fun Facts
 
 - I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
 - I almost always have a sketchbook with me.
 - I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
 - I added this page because so many people complained that my site was just a resume.
 
 #### I dream of
