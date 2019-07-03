@@ -22,43 +22,27 @@ const positions = [
       'Achieving high level of customer satisfaction in current and future clients.',
       'Providing exceptional support.',
     ],
-  }, {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'http://zenysis.com',
-    daterange: 'February 2016 - March 2016',
-    points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
-  }, {
-    company: 'Matroid',
-    position: 'Cofounder',
-    link: 'http://matroid.com',
-    daterange: 'July 2015 - January 2016',
-    points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
-    ],
-  }, {
-    company: 'Planet',
-    position: 'Missions Intern',
+  }, 
+   
+   {
+    company: 'DeltaProto',
+    position: 'Full Stack Web Developer Intern',
     link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
+    daterange: 'December 2018 - January 2019',
     points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
+      'Built data visualization tool in React and Redux.',
+      'Developed software for IT optimization.',
+      'Improved legacy code and implement new features according to the client’s needs.',
     ],
   }, {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
+    company: 'World Peace Initiative',
+    position: 'Country Coordinator',
     link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
+    daterange: 'July 2013 - June 2015',
     points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
+      'Part of the Peace Revolution Crew and officially representing Peace Revolution project.',
+      'Peace Coach’ for over 1000 users of the online self-development course.',
+      'Designing of \'building plans\' for world peace.',
     ],
   }, {
     company: 'Facebook',
