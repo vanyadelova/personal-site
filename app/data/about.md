@@ -52,7 +52,7 @@ Bologna, Amsterdam, Sydney, Prague, and Berlin.
 - I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
 - I almost always have a sketchbook with me.
 - I can't locate every country on a map.
-- I added this page because so many people complained that my site was just a resume.
+- I added this page because so many people complained that my site was just a [resume](https://vanyadelova.github.io/).
 
 #### I dream of
 - always finding inspiration.
