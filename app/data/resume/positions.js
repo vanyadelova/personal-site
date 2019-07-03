@@ -1,26 +1,26 @@
 
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Cofounder, C.T.O.',
+    company: 'Webhelp Enterprise',
+    position: 'Microsoft Software Asset Manager Specialist',
     link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    daterange: 'February 2018 - July 2018',
     points: [
-      'Created a new financial product for private equity investing. Deployed models to predict the valuation of art at auction.',
-      'Lead development team, set development lifecycle, and managed analytics and web products.',
-      'Built production on-line ETL Pipelines on Kubernetes with Pandas, Postgres, and Kubeflow on GCP.',
-      'Solved end-to-end optimization problems with MCMC, Modern Portfolio Theory, GLM, etc. using Pandas, Numpy, Scikit, Theano, PyMC3, and Jupyter.',
-      'YC Alumn. Worked on everything. Built a 16-person team.',
+      'Managing international accounts to maximize costs and value creation for service offerings',
+      'Forecasting marketing campaigns through CRM systems for software license opportunities',
+      'Handling large volume of cold calls in high-level territory plan, while achieving sustained development, optimization & evolution of the software invention.',
+      'Conducting dealings and pre-sales information to inbound customers.',
+      'Providing guidance to corporate clients on cybersecurity programs enabling a secure IT Infrastructure..',
     ],
   }, {
-    company: 'Enveritas',
-    position: 'Consultant',
+    company: 'Concentrix Services',
+    position: 'Community Support Representative',
     link: 'http://enveritas.org',
-    daterange: 'September 2016 - Present',
+    daterange: 'June 2015 - July 2016',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Provide solutions to raised concerns/problems on a passionate, accurate and timely manner. .',
+      'Achieving high level of customer satisfaction in current and future clients.',
+      'Providing exceptional support.',
     ],
   }, {
     company: 'Zenysis',
