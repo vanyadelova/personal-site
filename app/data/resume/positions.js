@@ -45,33 +45,36 @@ const positions = [
       'Designing of \'building plans\' for world peace.',
     ],
   }, {
-    company: 'Facebook',
+    company: 'WIP',
     position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
+    link: 'https://www.wip4.eu/',
+    daterange: 'August 2016 - October 2016',
     points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
+      'An exchange of entrepreneurial and management experience.',
+      'Erasmus for Young Entrepreneurs.',
+
     ],
   }, {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
+    company: 'Villawood',
+    position: 'Social and Human Services Assistant',
     link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
+    daterange: 'November 2016 - September 2017',
     points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
+      'Visit asylum seekers in detention.',
+      'Offering moral support assist them with any concerns they may have with regards to their current refugee status.',
+    'Communication with legal personnel and health officials as well as their case managers appointed by the Department of Immigration and Border Protection.',
+    'Making a difference to others has enriched my life.'
     ],
   },
   {
-    company: 'UB Nanosatellite Program',
-    position: 'Cofounder, Program Manager',
+    company: 'L\'Arcobaleno Società Cooperativa Sociale ONLUS',
+    position: 'International Volunteer',
     link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
+    daterange: 'December 2011 – November 2012',
     points: [
-      'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+      'Organization of arrangements for local events, coordination of exhibitions and promotions.',
+      'Responsible for cultural center ‘’Rina Durante’’ and its library and activities.',
+      'Teaching English.'
     ],
   },
 ];
