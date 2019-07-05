@@ -29,4 +29,4 @@ npm run dev
 ```
 Navigate to `<ip>:<port>` default: [http://localhost:7999](http://localhost:7999) to view my website.
 
-This completes set up instructions. Please continue reading to learn how to modify this site to make it your own.
+This completes set up instructions. 
