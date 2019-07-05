@@ -11,7 +11,7 @@ Tested with:
 
 1. To download the repository and install dependencies, run the following commands:
 ```bash
-git clone git://github.com/mldangelo/personal-site.git
+git clone https://github.com/vanyadelova/personal-site.git
 cd personal-site
 yarn
 ```
