@@ -11,14 +11,14 @@ const data = [
       + 'Depends on the backend API Server, which interact with the front-end portion of the project. '
       + 'This message board allowing users to post, edit, comment, and delete.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    title: 'Dashboard ',
+    subtitle: 'Hackathon',
+    link: 'https://github.com/vanyadelova/Youwe-task',
     image: '/images/projects/CRM.png',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    date: '2019-05-20',
+    desc: 'The Dashboard is an admin dashboard designed to be beautiful and simple. '
+      + 'It is built on top of React Bootstrap,  and it is fully responsive. '
+      + 'It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.',
   }, {
     title: 'Space Potato',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
