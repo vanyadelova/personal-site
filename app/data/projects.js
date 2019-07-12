@@ -2,14 +2,14 @@
 const data = [
   {
     title: 'Bookstore Message Board',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
+    subtitle: 'Hackathon',
+    link: 'https://github.com/vanyadelova/bookstore-message-board',
     image: '/images/projects/Bookstore.png',
     date: '2019-04-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    desc: 'Built for Storytel. '
+      + 'It is a SPA(Single Page Application) message board app in React-Redux. '
+      + 'Depends on the backend API Server, which interact with the front-end portion of the project. '
+      + 'This message board allowing users to post, edit, comment, and delete.',
   }, {
     title: 'Harvest',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
