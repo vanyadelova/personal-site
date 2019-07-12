@@ -15,28 +15,28 @@ const data = [
     subtitle: 'Hackathon',
     link: 'https://github.com/vanyadelova/Youwe-task',
     image: '/images/projects/CRM.png',
-    date: '2019-05-20',
+    date: '2019-05-18',
     desc: 'The Dashboard is an admin dashboard designed to be beautiful and simple. '
       + 'It is built on top of React Bootstrap,  and it is fully responsive. '
       + 'It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    title: 'Movie Library Application',
+    subtitle: 'A kickstarter.',
+    link: 'https://github.com/vanyadelova/movie-library-application',
     image: '/images/projects/movie-app.png',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
+    date: '2019-02-17',
+    desc: 'It is a SPA(Single Page Application) app to browse movies written in React-Redux. '
+      + 'The data is grabbed from the Movie DB - https://www.themoviedb.org/documentation/api. '
       + 'You can email me for a copy.',
   }, {
-    title: 'Cat Detector',
+    title: 'Multiplayer Pong Game',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
+    link: 'https://github.com/vanyadelova/ping-pong-game-hoan-vanya',
     image: '/images/projects/ping-pong.png',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    date: '2018-11-20',
+    desc: 'It uses Typescript, Koa, routing-controllers and TypeORM in the backend and React/Redux in the frontend. '
+     + 'The backend exposes a REST API but also sends messages over websockets using SocketIO.'
+    
   },
 ];
 
