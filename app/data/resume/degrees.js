@@ -21,6 +21,11 @@ const degrees = [
     degree: 'B.S. European Ethnology',
     link: 'https://www.uni-sofia.bg/index.php/eng',
     year: 2011,
+  }, {
+    school: 'Charles University',
+    degree: 'Erasmus+',
+    link: 'https://cuni.cz/UKEN-1.html',
+    year: 2010,
   },
   
 ];
