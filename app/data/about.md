@@ -49,7 +49,7 @@ Bologna, Amsterdam, Sydney, Prague, and Berlin.
 
 #### Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
+- I have a list of thousands of ideas, like creating matching bow ties for dogs and humans.
 - I almost always have a sketchbook with me.
 - I can't locate every country on a map.
 - I added this page because so many people complained that my site was just a [resume](https://vanyadelova.github.io/).
